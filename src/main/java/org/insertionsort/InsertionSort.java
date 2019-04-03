@@ -3,7 +3,7 @@ package org.insertionsort;
 /**
  * 
  * @author Daniele Damiano
- * Parte dalla prima posizione memorizzando il a[i] nella variabile prossimo 
+ * Parte dalla prima posizione memorizzando a[i] nella variabile prossimo 
  * Poi iterativamente procede all'indiero confrontando i prossimi elementi,
  * Se nr trova uno maggiore di prossimo cioe maggiore dell'indice a[i] lo copia nella posizione precedente 
  * E riprocede con la scansione cercando altri elementi maggiore di prossimo.
